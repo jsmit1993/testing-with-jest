@@ -1,0 +1,23 @@
+{
+  "name": "testing-with-jest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sum.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jsmit1993/testing-with-jest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jsmit1993/testing-with-jest/issues"
+  },
+  "homepage": "https://github.com/jsmit1993/testing-with-jest#readme",
+  "devDependencies": {
+    "jest": "^30.5.2"
+  }
+}
